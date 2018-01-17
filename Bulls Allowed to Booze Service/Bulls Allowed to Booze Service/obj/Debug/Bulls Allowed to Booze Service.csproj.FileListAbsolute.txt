@@ -1,0 +1,21 @@
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\ApplicationInsights.config
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Bulls Allowed to Booze Service.dll.config
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Bulls Allowed to Booze Service.dll
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Bulls Allowed to Booze Service.pdb
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\CloudinaryDotNet.dll
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.AI.Web.dll
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Newtonsoft.Json.dll
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.AI.Web.xml
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\bin\Newtonsoft.Json.xml
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\obj\Debug\Bulls Allowed to Booze Service.dll
+C:\Users\Gopalkrishna\Documents\Visual Studio 2015\Projects\Bulls Allowed to Booze Service\Bulls Allowed to Booze Service\obj\Debug\Bulls Allowed to Booze Service.pdb
